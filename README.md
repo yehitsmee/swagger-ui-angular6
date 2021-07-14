@@ -1,4 +1,4 @@
-# Angular CLI 7 + Angular 7 + Swagger-UI + Bootstrap 4.1 + FontAwesome 5 example app
+# Angular + Swagger-UI example app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
